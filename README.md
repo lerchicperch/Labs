@@ -14,7 +14,12 @@
 
 #### Создание диаграммы классов и диаграммы прецедентов "Обновление приложения мо методологии Agile" в PLANTUML (программное средство автоматической генерации UML-диаграмм)
 
+* [Текст](https://github.com/lerchicperch/Labs/blob/master/Текст%20Диаграммы%20классов.txt) и рисунок диаграммы классов <br>
+![none](https://github.com/lerchicperch/Labs/blob/master/Диаграмма%20классов.png) 
 
+* [Текст](https://github.com/lerchicperch/Labs/blob/master/Текст%20Диаграммы%20прецедентов.txt) и рисунок диаграммы классов <br>
+![none](https://github.com/lerchicperch/Labs/blob/master/Диаграмма%20прецедентов.png) 
+***
 
 ### Лабораторная работа №2
 ***
