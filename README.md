@@ -8,7 +8,7 @@
 
 * IDEF0-диаграмма в развернутом виде:
 
-
+![none](https://github.com/lerchicperch/Labs/blob/master/model.png)
 
 * [IDEF0-диаграмма в формате .rsf]()
 
