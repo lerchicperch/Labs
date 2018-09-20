@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Web-дизайнер" as Web-дизайнер {
+ Adobe PhotoShop
+Макет Создавать (Рисунки, Cроки по договору)
+}
+hide circle
+@enduml
