@@ -12,7 +12,7 @@
 
 * [IDEF0-диаграмма в формате .rsf](https://github.com/lerchicperch/Labs/blob/master/Lab1.rsf)
 
-#### Создание диаграммы классов и диаграммы прецедентов "Обновление приложения мо методологии Agile" в PLANTUML (программное средство автоматической генерации UML-диаграмм)
+#### Создание диаграммы классов и диаграммы прецедентов в PLANTUML (программное средство автоматической генерации UML-диаграмм)
 
 * [Текст](https://github.com/lerchicperch/Labs/blob/master/Текст%20Диаграммы%20классов.txt) и рисунок диаграммы классов <br>
 ![none](https://github.com/lerchicperch/Labs/blob/master/Диаграмма%20классов.png) 
