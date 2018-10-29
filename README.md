@@ -21,7 +21,21 @@
 ![none](https://github.com/lerchicperch/Labs/blob/master/Диаграмма%20прецедентов.png) 
 ***
 
-### Лабораторная работа №2
+### Лабораторная работа №2 - определение подсистемы и надсистемы.
+***
+* Диаграмма IDEF0 - А0 "Cоздавать дизайн-макет web-сайта"
+
+![none](https://github.com/lerchicperch/Labs/blob/master/Lab2/lab2%20(idef0%20A0).png)
+
+* Диаграмма IDEF0 - декомпозиция А0 в А1-А2-А3 по принципу Plan-Do-Check
+
+![none](https://github.com/lerchicperch/Labs/blob/master/Lab2/lab2%20(idef0%20A1%2C%20A2%2C%20A3).png)
+
+* Диаграмма DFD - декомпозиция А3 "Сборка макета"
+
+![none](https://github.com/lerchicperch/Labs/blob/master/Lab2/lab2%20(DFD).png)
+
+* [Диаграммы второй лабораторной работы в формате .rsf](https://github.com/lerchicperch/Labs/blob/master/Lab2/Lab2.rsf)
 ***
 
 ### Лабораторная работа №3
