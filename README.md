@@ -40,7 +40,22 @@
 
 ### Лабораторная работа №3
 ***
-
+#### Определение способов существования информации
+ Цель: Разработка информационной системы приема и выполнения заказов на разработку дизайнов<br>
+Точка зрения: Директор/Teamlead дизайн-студии<br>
+Область моделирования: Потоки данных дизайн-студии<br>
+ * Диаграмма DFD - Главный контекст модели
+ ![none](https://github.com/lerchicperch/Labs/blob/master/Lab3/lab3%20(DFD%20process).png)
+ * Диаграмма DFD - А0. Работа дизайн-группы
+ ![none](https://github.com/lerchicperch/Labs/blob/master/Lab3/lab3%20(DFD%20A0).png)
+ * Диаграмма DFD - декомпозиция в А2. Прием заказов
+ ![none](https://github.com/lerchicperch/Labs/blob/master/Lab3/lab3%20(DFD%20A2).png)
+ *  Диаграмма DFD - декомпозиция в А3. Создание дизайна
+ ![none](https://github.com/lerchicperch/Labs/blob/master/Lab3/lab3%20(DFD%20A3).png)
+ [Диаграммы третьей лабораторной работы в формате .rsf](https://github.com/lerchicperch/Labs/blob/master/Lab3/Lab3.rsf)
+ * ERD-диаграмма
+ ![none](https://github.com/lerchicperch/Labs/blob/master/Lab3/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)
+***
 ### Лабораторная работа №4
 ***
 
