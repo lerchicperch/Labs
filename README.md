@@ -129,15 +129,15 @@
 
 * Декомпозиция блока А13 "Создание общего чата и календаря"
 
-![A13](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD(A13).png)
+![A13](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_(A13).png)
 
 * Декомпозиция блока А33 "Подбор цветовой палитры"
 
-![A33](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD(A33).png)
+![A33](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_(A33).png)
 
 * Декомпозиция блока А34 "Составление мудборда"
 
-![A34](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD(A34).png)
+![A34](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_(A34).png)
 
 * Декомпозиция блока А53 "Проверка соответствия"
 
@@ -145,7 +145,7 @@
 
 * Декомпозиция блока А54 "Сбор документации"
 
-![A54](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD(A54).png)
+![A54](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_(A54).png)
 
 
 
