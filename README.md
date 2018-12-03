@@ -121,31 +121,31 @@
 
 * Декомпозиция блока А11 "Создание проекта и добавление участников"
 
-![A11](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD(A11).png)
+![A11](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_A11.png)
 
 * Декомпозиция блока А12 "Заполнение инфо о проекте и базовой документации"
 
-![A12](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD(A12).png)
+![A12](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_A12.png)
 
 * Декомпозиция блока А13 "Создание общего чата и календаря"
 
-![A13](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_(A13).png)
+![A13](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_A13.png)
 
 * Декомпозиция блока А33 "Подбор цветовой палитры"
 
-![A33](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_(A33).png)
+![A33](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_A33.png)
 
 * Декомпозиция блока А34 "Составление мудборда"
 
-![A34](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_(A34).png)
+![A34](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_A34.png)
 
 * Декомпозиция блока А53 "Проверка соответствия"
 
-![A53](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD(A53).png)
+![A53](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_A53.png)
 
 * Декомпозиция блока А54 "Сбор документации"
 
-![A54](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_(A54).png)
+![A54](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_A54.png)
 
 
 
