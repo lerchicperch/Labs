@@ -175,6 +175,6 @@
 
 * Загрузка модели и диаграммы классов в репозиторий
 
-(Смотреть [файл диаграммы](https://github.com/lerchicperch/Labs/blob/master/Lab6/Diagram_modules.png) и [текст для построения диаграммы] (https://github.com/lerchicperch/Labs/blob/master/Lab6/Diagram_modules%20text.txt) в PlantUml)
+(Смотреть [файл диаграммы](https://github.com/lerchicperch/Labs/blob/master/Lab6/Diagram_modules.png) и [текст для построения диаграммы](https://github.com/lerchicperch/Labs/blob/master/Lab6/Diagram_modules%20text.txt) в PlantUml)
 
 * Завершение редактирования readme.md.
