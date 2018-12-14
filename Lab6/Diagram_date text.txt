@@ -1,0 +1,70 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+
+class Entity as "Потоки"
+
+class Doc as "Электронный документ"
+class Image as "Графическое изображение"
+class Archive as "Архив"
+class Info as "Данные"
+class Fail as "Файл"
+
+class Tabl as "Таблица \n с данными"
+class Str as "Запись \n в таблице БД"
+
+class Arch as "Архив \n документов \n проекта (.rar)"
+
+class NewDesign as "Заказ \n на создание \n дизайна"
+class NullProj as "Пустой \n проект"
+class InfoPerson as "Инфо об \n участниках \n проекта"
+class KnowProj as "Определенный \n проект"
+class WorkProj as "Рабочий \n каркас \n проекта"
+class UseDoc as "Руководство \n по использованию"
+class AnyDoc as "Сопутствующая \n документация"
+class StartDoc as "Начальный \n комплект \n исходников"
+class Colors as "Набор \n цветов"
+class Palette as "Палитра"
+class Images as "Набор \n изображений"
+class Modboard as "Мудборд"
+class FinishMaket as "Готовый \n макет"
+class MaketChange as "Макет \n с правками"
+class AcseptMaket as "Принятый \n макет"
+
+Entity <|-- Doc
+Entity <|-- Image
+Entity <|-- Archive
+Entity <|-- Info
+Entity <|-- Fail
+
+Doc <|-- NewDesign
+Doc <|-- UseDoc
+Doc <|-- AnyDoc
+Doc <|-- Colors
+
+Image <|-- StartDoc
+Image <|-- Palette
+Image <|-- Images
+Image <|-- Modboard
+
+Fail <|-- FinishMaket
+Fail <|-- MaketChange
+Fail <|-- AcseptMaket
+
+Info <|-- Tabl
+Info <|-- Str
+
+Tabl <|-- InfoPerson
+Str <|-- NullProj
+Str <|-- KnowProj
+Str <|-- WorkProj
+
+Archive <|-- Arch
+
+hide members
+hide circle
+hide methods
+@enduml

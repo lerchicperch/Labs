@@ -1,0 +1,54 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Модули"
+class Module1 as "Модуль обработки"
+class Module2 as "Форма ввода"
+class Module3 as "Форма списка"
+
+class Sell as "Модуль \n отправки"
+class Mudboardcreate as "Модуль \n сборки \n мудборда"
+class Colorscreate as "Модуль \n создания \n палитры"
+class Projectfinish as "Модуль \n сборки \n проекта"
+class Projectgo as "Форма \n создания \n проекта"
+class Mudboardacsept as "Форма \n подтверждения \n мудборда"
+class Colorsacsept as "Форма \n подтверждения \n палитры"
+class Chatgo as "Форма \n создания \n чата"
+class Projectinfo as "Форма \n заполнения инфо \n о проекте"
+class Chat as "Форма \n чата"
+class Calendargo as "Форма \n создания \n календаря"
+class Comment as "Форма \n комментирования"
+class Startplanning as "Форма \n начального \n планирования"
+class Projectacsept as "Форма \n принятия \n проекта"
+class Workersgo as "Форма \n добавления \n участников"
+
+Entity <|-- Module1
+Entity <|-- Module2
+Entity <|-- Module3
+
+Module1 <|-- Sell
+Module1 <|-- Mudboardcreate
+Module1 <|-- Colorscreate
+Module1 <|-- Projectfinish
+
+Module2 <|-- Projectgo
+Module2 <|-- Mudboardacsept
+Module2 <|-- Colorsacsept
+Module2 <|-- Chat
+Module2 <|-- Comment
+Module2 <|-- Startplanning
+Module2 <|-- Projectacsept
+
+Module3 <|-- Workersgo
+
+Projectgo <|-- Chatgo
+Projectgo <|-- Projectinfo
+Projectgo <|-- Calendargo
+
+hide members
+hide circle
+hide methods
+@enduml
