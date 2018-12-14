@@ -156,6 +156,7 @@
 ![Data](https://github.com/lerchicperch/Labs/blob/master/Lab6/Diagram%20date.png)
 
 * Загрузка модели и диаграммы классов в репозиторий
+
 (Смотреть [файл диаграммы](https://github.com/lerchicperch/Labs/blob/master/Lab6/Diagram%20date.png) и [текст для построения диаграммы](https://github.com/lerchicperch/Labs/blob/master/Lab6/Diagram_date%20text.txt) в PlantUml)
 
 ### Завершение идентификации всех ролей
@@ -164,6 +165,7 @@
 ![Roles](https://github.com/lerchicperch/Labs/blob/master/Lab6/Diagram_roles.png)
 
 * Загрузка модели и диаграммы классов в репозиторий
+
 (Смотреть [файл диаграммы](https://github.com/lerchicperch/Labs/blob/master/Lab6/Diagram_roles.png) и [текст для построения диаграммы](https://github.com/lerchicperch/Labs/blob/master/Lab6/Diagram_roles.txt) в PlantUml)
 
 ### Завершение идентификации всех модулей
@@ -172,6 +174,7 @@
 ![Modules](https://github.com/lerchicperch/Labs/blob/master/Lab6/Diagram_modules.png)
 
 * Загрузка модели и диаграммы классов в репозиторий
+
 (Смотреть [файл диаграммы](https://github.com/lerchicperch/Labs/blob/master/Lab6/Diagram_modules.png) и [текст для построения диаграммы] (https://github.com/lerchicperch/Labs/blob/master/Lab6/Diagram_modules%20text.txt) в PlantUml)
 
 * Завершение редактирования readme.md.
